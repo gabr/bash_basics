@@ -1,4 +1,4 @@
 #!/bin/bash
-# My fist script
+# My first script
 
 echo "Hello World!"
